@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Murilo 😎
 
 - 🔭 Atualmente estou trabalhando com front-end, e back-end nas horas vagas kkk
-- 🌱 Estudando Vue
+- 🌱 Estudando Vue e React
 
 <div>
   <a href="https://github.com/murilodpl">
