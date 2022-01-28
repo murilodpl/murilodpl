@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando com front-end, e back-end nas horas vagas kkk
 - 🌱 Estudando Vue e React
+- 🎸 Guitarrista iniciante
 
 <div>
   <a href="https://github.com/murilodpl">
