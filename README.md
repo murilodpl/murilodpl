@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Murilo 😎
 
-- 🔭 Atualmente estou trabalhando com front-end, e back-end nas horas vagas kkk
-- 🌱 Me aprofundando em React
-- 🎸 Guitarrista iniciante
+- 🔭 Atualmente estou trabalhando como Fullstack
+- 🌱 Me aprofundando em PHP
+- Aprendendo a desenhar
 
 <div>
   <a href="https://github.com/murilodpl">
