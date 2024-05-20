@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Murilo 😎
 
 - 🔭 Atualmente estou trabalhando como Fullstack
-- 🌱 Me aprofundando em PHP
-- Aprendendo a desenhar
+- 😎 Especialista em PHP e Java
 
 <div>
   <a href="https://github.com/murilodpl">
